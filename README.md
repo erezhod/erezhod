@@ -12,7 +12,7 @@ Lets create amazing things together!
 - 🛠️ I currently work mainly on developing software for Apple platforms (Swift, Objective-C, C, Xcode, iOS, macOS)
 - 👨🏻‍🎨 I also have wide expertise and experience in:
   - Front-End (React, Angular)
-  - Back-End (NodeJS + NestJS, PostgreSQL, MySQL)
+  - Back-End (NodeJS + NestJS, PHP, PostgreSQL, MySQL)
   - DevOps (Linux, Docker, Cloud)
   - UI design (Sketch / Figma)
 - 🍎 Passionate about everything [Apple](https://apple.com) related. Hardware & software

@@ -7,7 +7,7 @@ I am a seasoned, battle-hardened software developer who loves teamwork, discipli
 My vast experience allows me to fully understand every side of every type of team in the process.
 Lets create amazing things together!
 
-- 👨🏻‍💻 Currently working at [SAM Seamless Network](https://securingsam.com) as an `iOS Tech Lead Engineer`
+- 👨🏻‍💻 Currently working at [SAM Seamless Network](https://securingsam.com) as a `Senior Full-Stack Developer` (previously `iOS Tech Lead Engineer`)
 - ⚡️ Formerly Founder & CEO of [Hero Apps, Ltd](https://github.com/heroappsio) `(acquired)`
 - 🛠️ I currently work mainly on developing software for Apple platforms (Swift, Objective-C, C, Xcode, iOS, macOS)
 - 👨🏻‍🎨 I also have wide expertise and experience in:
